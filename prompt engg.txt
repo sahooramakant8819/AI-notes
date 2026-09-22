@@ -1,0 +1,6 @@
+Prompt engg is about how you optimise your instructions for a single exchange of information retreival from a LLM.
+ What you want from a single query.
+ Various types of prompt engg are:
+ 1. Few shot prompting
+ 2. chain of though
+ 3. ReACT
